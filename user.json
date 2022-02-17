@@ -1,0 +1,13 @@
+{
+    "name": "John",
+    "address": {
+        "state": "washington",
+        "area":
+        {
+            "street": 121,
+            "city": "Bellevue",
+            "zip": 98008
+        },
+        "same_as_mailing": true
+    }
+}
